@@ -28,7 +28,7 @@ Estos proyectos son ejemplos y puedes encontrarlos (o similares) en mis reposito
 
 🤝 Conectemos
 Estoy abierto a colaborar, aprender y compartir conocimientos. Si quieres contactarme o simplemente charlar sobre código, puedes escribirme a:
-📧 [tunombre@email.com]
-🌐 https://github.com/tuusuario
+📧 [correofalso@gmail.com]
+🌐 https://github.com/rubig15
 
 ¡Gracias por visitar mi perfil!
