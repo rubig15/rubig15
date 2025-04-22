@@ -1,34 +1,52 @@
-👋 ¡Hola! Soy Rubén, 
-Soy un desarrollador apasionado por la tecnología, el código limpio y la resolución creativa de problemas. Desde que descubrí el mundo de la programación, me he dedicado a aprender, experimentar y construir proyectos que no solo funcionan, sino que también me ayudan a crecer como profesional.
+# 👋 ¡Hola! Soy Rubén
 
-🧠 Sobre mí
-Me considero una persona curiosa y autodidacta, siempre buscando nuevos desafíos y formas de mejorar mis habilidades. Trabajo principalmente con JavaScript, Python y TypeScript, aunque también me gusta explorar otros lenguajes y tecnologías. Disfruto tanto del desarrollo frontend como backend, lo que me permite participar en todo el ciclo de vida de una aplicación.
+## 💻 Programador apasionado por el código limpio y la innovación
 
-🚀 Intereses
-Desarrollo web full-stack
+Soy un desarrollador con enfoque en soluciones creativas y eficientes. Me encanta aprender nuevas tecnologías, automatizar procesos y colaborar en proyectos con impacto real. Siempre en búsqueda de nuevos retos y aprendizajes.
 
-Automatización y scripting
+---
 
-Inteligencia Artificial y Machine Learning
+### 🚀 Tecnologías que uso
 
-Aplicaciones móviles con React Native
+- 🧠 Inteligencia Artificial (ChatGPT, OpenAI API, etc.)
+- 🌐 HTML, CSS, JavaScript
+- ⚛️ React, Vue.js
+- 🐍 Python, Flask, Django
+- 🛠️ Git, GitHub, Docker
+- 🗄️ Bases de datos: MySQL, MongoDB
 
-Software libre y colaborativo
+---
 
-🌟 Proyectos Destacados
-TaskFlow – Una app web para gestión de tareas colaborativas con React, Node.js y MongoDB.
+### 🌟 Proyectos destacados
 
-DevBot – Un bot de Discord escrito en Python que automatiza tareas y ayuda a moderar comunidades.
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| `IA-Asistente` | Un chatbot con IA para atención automatizada | Python, Flask, OpenAI API |
+| `Portafolio Web` | Sitio web personal para mostrar mis trabajos | HTML, CSS, JS |
+| `Gestor de Tareas` | App para organizar tareas con autenticación | React, Firebase |
 
-WeatherLite – Aplicación de clima minimalista usando API de OpenWeather y React.
+---
 
-Portfolio 3D – Portfolio interactivo en 3D desarrollado con Three.js y Vite.
+### 🎯 Intereses
 
-Estos proyectos son ejemplos y puedes encontrarlos (o similares) en mis repositorios.
+- Desarrollo de software eficiente y escalable
+- Inteligencia Artificial y Machine Learning
+- Automatización y scripting
+- UI/UX centrado en el usuario
+- Contribuciones open source
 
-🤝 Conectemos
-Estoy abierto a colaborar, aprender y compartir conocimientos. Si quieres contactarme o simplemente charlar sobre código, puedes escribirme a:
-📧 [correofalso@gmail.com]
-🌐 https://github.com/rubig15
+---
 
-¡Gracias por visitar mi perfil!
+### 📬 Contacto (opcional)
+
+- 📧 [tu.email@ejemplo.com]
+- 🌐 [tuweb.dev] *(si tienes un portafolio web)*
+- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
+
+---
+
+### 📈 GitHub Stats
+
+![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dracula)
+
+
